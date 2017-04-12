@@ -1,0 +1,39 @@
+1.core pakage-src main java
+
+driver class files
+browser files
+
+test base
+signin
+page factor-all objects
+listener
+
+2.pom - package-src main java
+
+login page
+home page
+
+
+3.utilities-src main java
+
+xml reader
+xl reader
+app.properties
+
+4-src main test-test package
+priority 1.class
+priority2.class
+
+4.1-src main test resource-xml files
+
+how to read xml amd xl
+
+1.src/main/java
+com.czl.automation
+com.czl.automation.later
+com.czl.automation.page
+com.czl.automation.page.admin
+com.czl.automation.page.admin.mobile.android
+com.czl.automation.page.admin.mobile.ios
+com.czl.automation.page.business
+com.czl.automation.page.consumer

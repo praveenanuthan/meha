@@ -11,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 	public class consumersignup {
 	 static WebDriver driver;
 	 
-		//commited 13-April
+		// Just for testing
 
 	 
 	 public static void main(String[] args) {
